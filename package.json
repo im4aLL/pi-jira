@@ -1,0 +1,29 @@
+{
+  "name": "pi-jira",
+  "version": "1.0.0",
+  "description": "Fetch and create jira issues",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.21.0"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ],
+    "skills": [
+      "./skills"
+    ],
+    "image": "./cover.png"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "typebox": "*"
+  },
+  "keywords": [
+    "pi-package",
+    "jira",
+    "pi-jira",
+    "mcp",
+    "jira-mcp"
+  ]
+}
