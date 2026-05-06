@@ -1,6 +1,6 @@
 {
   "name": "@im4all/pi-jira-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch and create jira issues",
   "type": "module",
   "dependencies": {
