@@ -1,5 +1,5 @@
 {
-  "name": "pi-jira",
+  "name": "@im4all/pi-jira-extension",
   "version": "1.0.0",
   "description": "Fetch and create jira issues",
   "type": "module",
