@@ -13,7 +13,7 @@
     "skills": [
       "./skills"
     ],
-    "image": "./cover.png"
+    "image": "https://habibhadi.com/assets/pi-jira-extension.png"
   },
   "peerDependencies": {
     "@mariozechner/pi-coding-agent": "*",
